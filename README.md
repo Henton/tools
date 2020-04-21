@@ -1,2 +1,2 @@
 # tools
-some useful scripts
+some useless scripts 😳
